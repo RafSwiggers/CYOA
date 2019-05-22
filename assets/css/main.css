@@ -8085,7 +8085,7 @@ body.is-preload .items.onload-fade-in>*>.inner {
 }
 
 #codesnip {
-    width: 50vw;
+    width: 100vw;
     height: 50VW;
     margin: auto;
 }
