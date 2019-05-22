@@ -8084,8 +8084,8 @@ body.is-preload .items.onload-fade-in>*>.inner {
     box-shadow: none !important;
 }
 
-#codesnip {
-    position: relative;
+.codesnip {
     height: 35VW;
     margin: auto;
+    width: 25vw;
 }
