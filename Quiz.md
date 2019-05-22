@@ -11,4 +11,5 @@ Tuesday is when we meet Steve. He's concerned his website isn't entirely looking
 On wednesday, we find Panadda stuck in SASS. Their changes just aren't pushing through. We find out they haven't set their file to be watched, so the changes aren't being turned into an actual stylesheet. 
 
 ## Thursday
-Thursday is the day we run into an issue using GIT and GITHUB. When pushing to the repo, 
+Thursday is the day we run into an issue using GIT and GITHUB. When merging branches; there is a conflict. The player should indicate to remove one of the two versions in the code, including the tags.
+
