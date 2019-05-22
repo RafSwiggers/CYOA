@@ -24,4 +24,8 @@ Tuesday is when we meet Steve. He's concerned his website isn't entirely looking
 No matter the answer, Steve responds with kindness and gratitude. Wether or not the problem is solved won't be known until the end.
 
 ##### Wednesday
-On wednesday, we 
+On wednesday, we find Panadda stuck in SASS. Their changes just aren't pushing through. We find out they haven't set their file to be watched, so the changes aren't being turned into an actual stylesheet. 
+
+Regardless of the answer, Panadda reacts with kindness and gratitude. Wether or not the problem is solved won't be known until the end.
+
+##### Friday
