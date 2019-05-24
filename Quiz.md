@@ -24,11 +24,6 @@ Thursday is the day we run into an issue using GIT and GITHUB. When merging bran
 Answer A: "Maybe just copy-paste your code into the master branch? Fix it that way."
 Answer B: "You need to remove the code marked "master" or "head", including the tags. Pick one or the other."
 
-## Friday
-The dreaded GRID rears it's ugly head! A fellow developer is trying to use grid, but isn't using an overarching container for it. This results in no grid at all. So sad.
-
-Answer A: "Just mess with the margins and padding until everything is where it should be."
-Answer B: "You need one more container keeping it all in, and use CSS to make it a grid."
 
 ## Ending
 The big one. Each ending will have a good or bad module for each question answered over the week. The idea is to show the after-work drinks as a display of who was helped and who wasn't. Hooray!
